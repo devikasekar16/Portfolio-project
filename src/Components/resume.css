@@ -1,0 +1,34 @@
+body{
+  color:white;
+  font-family: "Roboto", sans-serif;
+
+}
+.project-heading{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.project-image{
+  height: 500px;
+}
+.project-photo{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.project-button{
+  display: flex;
+  justify-content: center;
+  
+}
+.project-download{
+  background-color: #008CBA;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    margin-top: 20px;
+}

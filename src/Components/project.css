@@ -1,0 +1,50 @@
+.project{
+    margin-top: 0px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+
+.square1{
+    height: 470px;
+    width: 350px;
+    border: 3px solid thistle;
+    box-shadow: 1px 1px 5px 5px lightblue;
+}
+
+.project-sentence{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    
+}
+.square{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 30px;
+}
+
+.image{
+    height: 300px;
+    width: 350px;
+}
+
+.word{
+  color:white;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+.words{
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: "Roboto", sans-serif;
+}

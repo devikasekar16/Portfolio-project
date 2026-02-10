@@ -1,0 +1,202 @@
+
+.first{
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+.first-skill{
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.firstbox {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+
+}
+
+.box2 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.box3 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.box4 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+.box5 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.box6 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.box7 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.box8 {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.secondbox {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.javascript {
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.name3 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.react {
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.name4 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 45px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+.html {
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.name1 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+.css {
+    height: 90px;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+.name2 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 55px;
+    margin-top: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+.boostrap {
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.name5 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 25px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.npm {
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.name6 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 55px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.git {
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.name7 {
+    font-family: "Roboto", sans-serif;
+    margin-left: 60px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.github {
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.name8 {
+    margin-left: 38px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}

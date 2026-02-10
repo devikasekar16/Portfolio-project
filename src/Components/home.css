@@ -1,0 +1,28 @@
+.front{
+  font-size: 100px;
+  color: white;
+  margin-left: 200px;
+  font-family: "Roboto", sans-serif;
+}
+
+.s{
+  font-size: 24px;
+  color:white;
+  margin-top: 50px;
+  margin-left: 190px;
+  font-family: "Roboto", sans-serif;
+}
+
+.developer{
+  display: flex;
+  margin-left: 200px;
+  height: 450px;
+  margin-top: 70px;
+}
+.hero{
+  margin-top: 100px;
+}
+
+
+
+

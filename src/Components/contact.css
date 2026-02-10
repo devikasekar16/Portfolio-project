@@ -1,0 +1,157 @@
+.all{
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 24px;
+     color:white;
+     font-family: "Roboto", sans-serif;
+     margin-top: 10px;
+}
+
+.contactline{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+.address{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 40px;
+}
+.email{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 40px;
+}
+.phone{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 40px;
+}
+.linkedin{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: white;
+    display: flex;
+}
+.address1{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.email1{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.phone1{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.linkedin1{
+     height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.menu{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.action{
+    margin-left: 30px;
+    margin-top: 0px;
+    color: rgb(51, 147, 231);
+    font-family: "Roboto", sans-serif;   
+    font-size: 20px;
+}
+.arni{
+    margin-left: 30px;
+    margin-top: 10px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+
+.triangle{
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 1px 1px 5px 5px lightblue;
+}
+.send{
+    font-size:xx-large;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-family: "Roboto", sans-serif;
+    color: black;
+}
+.input{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.name{
+    padding-right: 100px;
+    border-style: none none solid none;
+    outline: none;
+    font-family: "Roboto", sans-serif;
+}
+.submit-button{
+    background-color: #008CBA;
+    color: white;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    border-radius: 10px;
+}
+.contact-street{
+    margin-left: 30px;
+    margin-top: 10px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    display:ruby-text;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+
+
+.icon {
+    font-size: 16px;
+    position: relative;
+    top: 1px;
+}
+
